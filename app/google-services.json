@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746851882589",
+    "firebase_url": "https://doldol.firebaseio.com",
+    "project_id": "doldol",
+    "storage_bucket": "doldol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746851882589:android:73ce99d6f84ec6a19c1fb4",
+        "android_client_info": {
+          "package_name": "com.example.doldol4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746851882589-kve6lanhhme2t2gaaa1f379iqa54bge6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doldol4",
+            "certificate_hash": "bf245bd2a54489dd1da131ca848d65759bc52054"
+          }
+        },
+        {
+          "client_id": "746851882589-iesu28go3vo9kjrsdbq2eu9ij6ih0cti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxcObjK3_kT2odPrOKP02benneSZP-SE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746851882589-iesu28go3vo9kjrsdbq2eu9ij6ih0cti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

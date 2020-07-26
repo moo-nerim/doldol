@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.doldol4">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/intro"
+        android:label="돌돌이네"
+        android:roundIcon="@drawable/intro"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".postActivity"/>
+        <activity android:name=".main1Activity" />
+        <activity android:name=".button13_1_1Activity" />
+        <activity android:name=".button12_1_1Activity" />
+        <activity android:name=".button11_1_1Activity" />
+        <activity android:name=".button10_1_1Activity" />
+        <activity android:name=".button9_1_1Activity" />
+        <activity android:name=".button8_1_1Activity" />
+        <activity android:name=".button6_1_1Activity" />
+        <activity android:name=".button5_1_1Activity" />
+        <activity android:name=".button4_1_1Activity" />
+        <activity android:name=".button3_1_1Activity" />
+        <activity android:name=".button2_1_1Activity" />
+        <activity android:name=".button1_1_1Activity" />
+        <activity android:name=".button13_1Activity" />
+        <activity android:name=".button12_1Activity" />
+        <activity android:name=".button11_1Activity" />
+        <activity android:name=".button10_1Activity" />
+        <activity android:name=".button9_1Activity" />
+        <activity android:name=".button8_1Activity" />
+        <activity android:name=".button5_1Activity" />
+        <activity android:name=".button4_1Activity" />
+        <activity android:name=".button3_1Activity" />
+        <activity android:name=".button2_1Activity" />
+        <activity android:name=".button1_1Activity" />
+        <activity android:name=".button6_1Activity" />
+        <activity android:name=".button7_1_1Activity" />
+        <activity android:name=".button7_1Activity" />
+        <activity android:name=".loginActivity" />
+        <activity android:name=".button13Activity" />
+        <activity android:name=".button12Activity" />
+        <activity android:name=".button11Activity" />
+        <activity android:name=".button10Activity" />
+        <activity android:name=".button9Activity" />
+        <activity android:name=".button8Activity" />
+        <activity android:name=".button7Activity" />
+        <activity android:name=".button6Activity" />
+        <activity android:name=".button5Activity" />
+        <activity android:name=".button4Activity" />
+        <activity android:name=".button3Activity" />
+        <activity android:name=".button2Activity" />
+        <activity android:name=".button1Activity" />
+        <activity android:name=".IntroActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
