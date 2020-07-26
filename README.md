@@ -1,10 +1,10 @@
 # doldol(laundry APP)_5th Junior_Proj
 
-1. Report
+#1. Report
 
 ![그림1 (1) (1)](https://user-images.githubusercontent.com/59702552/88474170-1175d880-cf5f-11ea-9cac-414cd2bda0d2.jpg)
 
-2. App execution steps
+#2. App execution steps
 
 ①
 
