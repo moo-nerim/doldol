@@ -1,33 +1,33 @@
 # doldol(laundry APP)_5th Junior_Proj
 
 1. Report
-![그림1](https://user-images.githubusercontent.com/59702552/88473664-bcd05e80-cf5a-11ea-917a-c05679e60c51.jpg)
+![그림1 (1)](https://user-images.githubusercontent.com/59702552/88474058-403f7f00-cf5e-11ea-8a4a-88bee5b4e709.jpg)
 
 2. App execution steps
 
 ①
-![2](https://user-images.githubusercontent.com/59702552/88473869-98758180-cf5c-11ea-9c05-f2f94c398a58.jpg)
+![2](https://user-images.githubusercontent.com/59702552/88473982-c3aca080-cf5d-11ea-80da-c26e719d0aeb.jpg)
 
 ②
-![3](https://user-images.githubusercontent.com/59702552/88473872-990e1800-cf5c-11ea-8f95-48c92e152b66.jpg)
+![3](https://user-images.githubusercontent.com/59702552/88473985-c5766400-cf5d-11ea-823f-59525625c320.jpg)
 
 ③
-![4](https://user-images.githubusercontent.com/59702552/88473875-9a3f4500-cf5c-11ea-8b39-611f9646fd0e.jpg)
+![4](https://user-images.githubusercontent.com/59702552/88473986-c6a79100-cf5d-11ea-85b1-9b008e023545.jpg)
 
 ④
-![5](https://user-images.githubusercontent.com/59702552/88473877-9ad7db80-cf5c-11ea-9b0a-f35abce505b0.jpg)
+![5](https://user-images.githubusercontent.com/59702552/88474044-2aca5500-cf5e-11ea-81e5-dad7db2b63ae.jpg)
 
 ⑤
-![6](https://user-images.githubusercontent.com/59702552/88473879-a2978000-cf5c-11ea-8cef-a3b25e94f76f.jpg)
+![6](https://user-images.githubusercontent.com/59702552/88474047-30279f80-cf5e-11ea-871c-eaa0e3800945.jpg)
 
 ⑥
-![7](https://user-images.githubusercontent.com/59702552/88473883-a62b0700-cf5c-11ea-8800-ddb8e52a3eaf.jpg)
+![7](https://user-images.githubusercontent.com/59702552/88474049-33bb2680-cf5e-11ea-84f7-165d6f3c12bb.jpg)
 
 ⑦
-![8](https://user-images.githubusercontent.com/59702552/88473885-a6c39d80-cf5c-11ea-91dc-146709303cb5.jpg)
+![8](https://user-images.githubusercontent.com/59702552/88474051-3453bd00-cf5e-11ea-8e61-36176983e42e.jpg)
 
 ⑧
-![9](https://user-images.githubusercontent.com/59702552/88473865-91e70a00-cf5c-11ea-894d-0bace775dd38.jpg)
+![9](https://user-images.githubusercontent.com/59702552/88474052-3584ea00-cf5e-11ea-9fea-f4c74679d8d2.jpg)
 
 ⑨
-![10](https://user-images.githubusercontent.com/59702552/88473868-97dceb00-cf5c-11ea-9875-ab62235b7469.jpg)
+![10](https://user-images.githubusercontent.com/59702552/88474053-361d8080-cf5e-11ea-8d3e-b61c856eb7e2.jpg)
